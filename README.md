@@ -34,3 +34,8 @@ Execute the TypeScript code using [ts-node](https://www.npmjs.com/package/ts-nod
 
 ```bash
 ts-node index.ts
+```
+
+<img width="565" alt="image" src="https://github.com/akhmadmamirov/fetchJson/assets/105142060/35a13e01-4922-4be0-9da9-40351c5e8946">
+
+
